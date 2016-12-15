@@ -7,5 +7,3 @@ For example let's send messages to messenger.com from a laptop. Run the Sender.p
 
 **Works only in linux Systems**
 
-####Requirement
-+ xdotool
